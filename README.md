@@ -136,7 +136,6 @@
 >
 > Version: 2019
 >
-> Description: Rues
 ![image](https://github.com/enzifiri/Rivalz/assets/76253089/71a3ff23-0075-4abc-934a-c6208623d7ac)
 
 > Upload butonuna basın ve dolmasını bekleyin. Bu adımda yüklenmesi contabodan kaynaklı olarak 1-2 saat sürebiliyor. Yüklendikten sonra diğer adıma geçin.
