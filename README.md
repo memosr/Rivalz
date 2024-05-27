@@ -12,10 +12,7 @@
 
 > Donanım kısmı için her sunucu olur, sunucunuz ne kadar iyise o kadar rewards demek, miner olcaz sonuçta..
 
-<h1> Hetzner VPS Windows Kurulumu</summary>
-    
-<h1 align="center">Sadece Hetner VPS için geçerlidir</h1>
-
+<h1> Hetzner VPS Windows Kurulumu
 
 > Windows Server 2019 Englishi bul - Mouth butonuna tıkla - 3. numarada ki ikona tıkla ve sunucuna bağlan
 
