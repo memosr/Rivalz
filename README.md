@@ -239,7 +239,7 @@
 
 # Rivalz Node Kurulumu
 
-> Rivalz hesap açıyoruz [buradan](https://rivalz.ai?r=Ruesandora0)
+> Rivalz hesap açıyoruz [buradan](https://rivalz.ai?r=memosrETH)
 
 > Burada cüzdan, twitter ve discord her şey bağlayın.
 
@@ -268,5 +268,3 @@
 #
 
 > Akabinde rivalz'da LOYALTY NFTs kısmını yapmayı unutmayın mintlein 10 NFT'yi.
-
-> Rivalz hakkında link paylaşmak isterseniz [burayı](https://t.me/ruesshare/21528) kullanabilirsiniz.
