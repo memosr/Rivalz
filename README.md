@@ -1,3 +1,5 @@
+![image](https://raw.githubusercontent.com/memosr/Gorseller/main/20240527_092356.png?token=GHSAT0AAAAAACS2KRHMVGIUMBZP6CKP2X7WZSUFC2A)
+
 <h1 align="center">Rivalz</h1>
 
 > Selamlar, teşvikli Rivalz node va app testleri yaptım. Katılırken bir çok şey öğreneceğinizi düşünüyorum
