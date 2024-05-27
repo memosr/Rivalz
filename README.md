@@ -2,7 +2,7 @@
 
 > Selamlar, teşvikli Rivalz node va app testleri yaptım. Katılırken bir çok şey öğreneceğinizi düşünüyorum
 
-> Ben hetzner'den yaptım bunu fakat kendi sunucu sağlayacınızda da benzer şeyleri yaparsınız (olmadı contabocular pR atar)
+> Ben hetzner'den yaptım bunu fakat kendi sunucu sağlayacınızda da benzer şeyleri yaparsınız.
 
 > Donanım kısmı için her sunucu olur, sunucunuz ne kadar iyise o kadar rewards demek, miner olcaz sonuçta..
 
