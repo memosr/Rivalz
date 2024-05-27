@@ -1,8 +1,14 @@
+(https://raw.githubusercontent.com/memosr/Gorseller/main/20240527_092356.png?token=GHSAT0AAAAAACS2KRHMVGIUMBZP6CKP2X7WZSUFC2A)
+
+* [Topluluk kanalımız](https://t.me/memosrr)<br>
+ * [Twitter](https://x.com/memosrETH)<br>
+ * [Websitemiz](https://memosr.com)<br>
+
 <h1 align="center">Rivalz</h1>
 
 > Selamlar, teşvikli Rivalz node va app testleri yaptım. Katılırken bir çok şey öğreneceğinizi düşünüyorum
 
-> Ben hetzner'den yaptım bunu fakat kendi sunucu sağlayacınızda da benzer şeyleri yaparsınız (olmadı contabocular pR atar)
+> Ben hetzner'den yaptım bunu fakat kendi sunucu sağlayacınızda da benzer şeyleri yaparsınız.
 
 > Donanım kısmı için her sunucu olur, sunucunuz ne kadar iyise o kadar rewards demek, miner olcaz sonuçta..
 
